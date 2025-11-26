@@ -1,1 +1,5 @@
 # Vagrant
+
+## Опис Vagrantfile
+
+- `# -*- mode: ruby -*-` та `# vi: set ft=ruby :` : Ці рядки повідомляють редакторам (Vim, іншим IDE), що файл має бути інтерпретований у форматі Ruby, оскільки Vagrantfile — це Ruby-скрипт.
